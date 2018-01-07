@@ -1,0 +1,35 @@
+/*body {
+    background: $bg-color;
+}
+*/
+.heading {
+  color: white;
+  background: indigo;
+  padding-left: 500px;
+  padding-top: 50px; }
+
+.list-group-item {
+  background-color: indigo;
+  color: white; }
+
+/*
+.list-group-item:nth-child(even){
+  background-color: $bg-color;
+  color: white;
+}
+
+.list-group-item:nth-child(odd){
+  background-color: $list-group-bg;
+  color: black;
+  font-weight: bold;
+}
+*/
+/*
+.list-group-item:nth-child(even){
+  background-color: #ea80fc;
+  color: purple;
+}
+.list-group-item:nth-child(odd){
+  background-color: $list-group-bg;
+  color: black;
+} */
